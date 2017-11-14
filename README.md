@@ -1,2 +1,2 @@
 Hello,
-  Welcome you all. 
+  Welcome you all. Let's start.
